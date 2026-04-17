@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kanishka</h1>
-<h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
 
 ---
 
 ### 👩‍💻 About Me
 - 🤝 I’m looking to collaborate on **Cloud-Native & Full-Stack projects**
 - 🚀 Currently improving **DSA, MERN & System Design**
-- 🤔 I’m looking for help with **advanced Full-Stack Development**
 - 📫 How to reach me: **06kanishkaa@gmail.com**
 
 ---
@@ -28,7 +26,7 @@
 
 ### 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,android,css,html,django,express,gcp,java,js,mongodb,mysql,nodejs,oracle,python,react,ts" />
+  <img src="https://skillicons.dev/icons?i=aws,css,html,express,java,js,mongodb,mysql,nodejs,oracle,python,react,ts" />
 </p>
 
 ---
