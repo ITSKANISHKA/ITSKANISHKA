@@ -1,37 +1,47 @@
-<h1 align="center">👩‍💻 Hi, I'm Kanishka</h1>
+<h1 align="center">👋 Hi, I'm Kanishka</h1>
 
 <h3 align="center">
-🚀 Full-Stack Developer | AI/ML Enthusiast | Problem Solver
+🤖 AI/ML Enthusiast • 💻 Full-Stack Developer • 🚀 Problem Solver
 </h3>
 
 <p align="center">
-  Building clean web apps, learning DSA, and exploring AI-powered solutions.
+Building intelligent solutions with AI, developing scalable web applications, and solving complex problems through code.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Full-Stack+Developer;500%2B+DSA+Problems+Solved;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🤝 Looking to collaborate on **Cloud-Native & Full-Stack projects**
+- 🤖 Enthusiastic about **AI/ML and intelligent systems**
 - 🚀 Currently improving **DSA, MERN Stack & System Design**
-- 🧠 Interested in **AI/ML, Web Development & Scalable Systems**
+- ☁️ Exploring **AWS, Cloud-Native Technologies & DevOps**
+- 💻 Solved **500+ DSA Problems**
+- 🤝 Looking to collaborate on **Full-Stack & AI-driven Projects**
 - 📫 Reach me at **itskanishka.06@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/itskanishka06/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <a href="https://www.linkedin.com/in/itskanishka06/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/n7VPPMuNJj/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+  <a href="https://leetcode.com/u/n7VPPMuNJj/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/kanishka__" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+  <a href="https://codeforces.com/profile/kanishka__">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="mailto:itskanishka.06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -44,7 +54,7 @@
     <td align="center" width="33%">
       <h3>🌐 Full-Stack Web</h3>
       <br />
-      <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,tailwind,supabase&perline=4" />
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,tailwind,supabase,mongodb,mysql&perline=5" />
     </td>
     <td align="center" width="33%">
       <h3>🧠 Data & AI</h3>
@@ -54,13 +64,14 @@
     <td align="center" width="33%">
       <h3>🛠 Tools & Languages</h3>
       <br />
-      <img src="https://skillicons.dev/icons?i=java,git,github,vscode,aws,docker&perline=4" />
+      <img src="https://skillicons.dev/icons?i=java,git,github,vscode,aws,docker,ts&perline=4" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <b>📚 Data Science Libraries:</b> Pandas • NumPy • Matplotlib • Power BI • Streamlit
+  <b>📚 Data Science Libraries:</b><br><br>
+  Pandas • NumPy • Matplotlib • Scikit-Learn • Streamlit • Power BI • FastAPI
 </p>
 
 ---
@@ -84,12 +95,21 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ITSKANISHKA&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITSKANISHKA&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ITSKANISHKA&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITSKANISHKA&theme=radical" height="170" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ITSKANISHKA&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <b>⭐ Thanks for visiting my GitHub profile!</b>
+⭐ <b>Thanks for visiting my profile!</b><br>
+🚀 Open to internships, collaborations, and exciting opportunities in Full-Stack Development & AI/ML.
 </p>
