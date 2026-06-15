@@ -69,17 +69,10 @@ Building intelligent solutions with AI, developing scalable web applications, an
   </tr>
 </table>
 
-## 🧠 AI/ML & Analytics
-
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <b>🧠 AI/ML & Analytics</b><br><br>
+  TensorFlow • Scikit-Learn • OpenCV • Pandas • NumPy • Matplotlib • Streamlit • Power BI • Jupyter Notebook • Machine Learning • Deep Learning • Data Visualization
 </p>
----
 
 ## 📊 LeetCode Stats
 
@@ -87,7 +80,6 @@ Building intelligent solutions with AI, developing scalable web applications, an
   <img src="https://leetcard.jacoblin.cool/n7VPPMuNJj?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
----
 
 ## 🏆 Codeforces Stats
 
