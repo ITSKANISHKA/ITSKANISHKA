@@ -69,10 +69,37 @@ Building intelligent solutions with AI, developing scalable web applications, an
   </tr>
 </table>
 
+## 🧠 AI/ML & Analytics
+
 <p align="center">
-  <b>🧠 AI/ML & Analytics</b><br><br>
-  TensorFlow • Scikit-Learn • OpenCV • Pandas • NumPy • Matplotlib • Streamlit • Power BI • Jupyter Notebook • Machine Learning • Deep Learning • Data Visualization
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data_Visualization-20BEFF?style=for-the-badge&logo=tableau&logoColor=white"/>
+
 </p>
+
+
 
 ## 📊 LeetCode Stats
 
