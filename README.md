@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Kanishka</h1>
+<h1 align="center">Hi, I'm Kanishka 😇</h1>
 
 <h3 align="center">
 🤖 AI/ML Enthusiast • 💻 Full-Stack Developer • 🚀 Problem Solver
