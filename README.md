@@ -1,139 +1,109 @@
-<h1 align="center">Hi, I'm Kanishka 😇</h1>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-<h3 align="center">
-🤖 AI/ML Enthusiast • 💻 Full-Stack Developer • 🚀 Problem Solver
-</h3>
+                    K A N I S H K A
 
-<p align="center">
-Building intelligent solutions with AI, developing scalable web applications, and solving complex problems through code.
-</p>
+          AI/ML Enthusiast | Full-Stack Developer
+                  Cloud & Data Science
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Full-Stack+Developer;500%2B+DSA+Problems+Solved;Always+Learning+Something+New+🚀" />
-</p>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
----
+👋 Hi, I'm Kanishka
 
-## 👩‍💻 About Me
+A Computer Science undergraduate passionate about building
+intelligent AI-powered systems, scalable web applications,
+and impactful digital products.
 
-- 🤖 Enthusiastic about **AI/ML and intelligent systems**
-- 🚀 Currently improving **DSA, MERN Stack & System Design**
-- ☁️ Exploring **AWS, Cloud-Native Technologies & DevOps**
-- 💻 Solved **500+ DSA Problems**
-- 🤝 Looking to collaborate on **Full-Stack & AI-driven Projects**
-- 📫 Reach me at **itskanishka.06@gmail.com**
+[Typing Animation]
+▶ AI/ML Enthusiast
+▶ Full-Stack Developer
+▶ Data Science Learner
+▶ AWS & DevOps Explorer
+▶ 500+ DSA Problems Solved
 
----
+--------------------------------------------------------------
 
-## 🌐 Connect With Me
+🚀 ABOUT ME
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/itskanishka06/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+🤖 AI/ML & Intelligent Systems
+🌐 Full Stack Development
+☁️ AWS & Cloud Technologies
+📊 Data Science & Analytics
+💻 500+ DSA Problems Solved
+🤝 Open to Internships & Collaborations
 
-  <a href="https://leetcode.com/u/n7VPPMuNJj/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+--------------------------------------------------------------
 
-  <a href="https://codeforces.com/profile/kanishka__">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
+🔗 CONNECT
 
-  <a href="mailto:itskanishka.06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+LinkedIn    LeetCode    Codeforces    Gmail
 
----
+--------------------------------------------------------------
 
-## 💻 Tech Stack
+⚔️ TECH ARSENAL
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🌐 Full-Stack Web</h3>
-      <br />
-      <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,tailwind,supabase,mongodb,mysql&perline=5" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🧠 Data & AI</h3>
-      <br />
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,postgres&perline=4" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🛠 Tools & Languages</h3>
-      <br />
-      <img src="https://skillicons.dev/icons?i=java,git,github,vscode,aws,docker,ts&perline=4" />
-    </td>
-  </tr>
-</table>
+Java        Python      JavaScript      TypeScript
 
-## 🧠 AI/ML & Analytics
+React       Node.js     Express.js      FastAPI
 
-<p align="center">
+MongoDB     MySQL       PostgreSQL      Oracle
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+TensorFlow  OpenCV      Scikit-Learn
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+AWS         Docker      Git             GitHub
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+HTML        CSS         Tailwind
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+--------------------------------------------------------------
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+🧠 AI / ML & ANALYTICS TOOLKIT
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+Machine Learning
+Deep Learning
+Data Science
+Data Analytics
+Data Visualization
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+Pandas
+NumPy
+Matplotlib
+Power BI
+Jupyter
+OpenCV
+TensorFlow
+Scikit-Learn
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+--------------------------------------------------------------
 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+🚀 FEATURED PROJECTS
 
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+📌 Smart Attendance System
 
-<img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white"/>
+AI-powered attendance management using
+Face Recognition & OpenCV
 
-<img src="https://img.shields.io/badge/Data_Visualization-20BEFF?style=for-the-badge&logo=tableau&logoColor=white"/>
+Tech:
+Python • Flask • OpenCV • NumPy • Pandas
 
-</p>
+[ Project Card ]
 
+--------------------------------------------------------------
 
+📊 STATS
 
-## 📊 LeetCode Stats
+┌─────────────────┐ ┌─────────────────┐
+│ GitHub Stats    │ │ GitHub Streak   │
+└─────────────────┘ └─────────────────┘
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/n7VPPMuNJj?theme=dark&font=Karma&ext=heatmap" />
-</p>
+┌───────────────────────────────────────┐
+│      LeetCode Heatmap                 │
+└───────────────────────────────────────┘
 
+┌───────────────────────────────────────┐
+│      Codeforces Card                  │
+└───────────────────────────────────────┘
 
-## 🏆 Codeforces Stats
+--------------------------------------------------------------
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kanishka__&theme=github_dark" />
-</p>
+💜 Building AI + Full Stack Solutions
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ITSKANISHKA&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITSKANISHKA&theme=radical" height="170" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ITSKANISHKA&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-⭐ <b>Thanks for visiting my profile!</b><br>
-🚀 Open to internships, collaborations, and exciting opportunities in Full-Stack Development & AI/ML.
-</p>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
