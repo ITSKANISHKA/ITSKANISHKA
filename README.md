@@ -37,21 +37,13 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
 </p>
 
 ---
@@ -70,22 +62,40 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 
 ## 🚀 Featured Projects
 
-```yaml
-status: loading...
+🚧 Project showcase coming soon...
 
-project_01:
-  title: Coming Soon
+---
 
-project_02:
-  title: Coming Soon
+## 📊 GitHub Analytics
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ITSKANISHKA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ITSKANISHKA&theme=radical&hide_border=true&background=0D1117" width="48%" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITSKANISHKA&theme=react-dark&hide_border=true"/>
+</p>
 
+---
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ITSKANISHKA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITSKANISHKA&theme=radical&hide_border=true&background=0D1117" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ITSKANISHKA&theme=react-dark&hide_border=true"/> </p>
+## 🌐 Connect With Me
 
+<p align="center">
+<a href="https://www.linkedin.com/in/itskanishka06/">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:itskanishka.06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/n7VPPMuNJj/">
+<img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://codeforces.com/profile/kanishka__">
+<img src="https://img.shields.io/badge/Codeforces-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+</p>
 
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/itskanishka06/"> <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:itskanishka.06@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://leetcode.com/u/n7VPPMuNJj/"> <img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://codeforces.com/profile/kanishka__"> <img src="https://img.shields.io/badge/Codeforces-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white"/> </a> </p>
-<p align="center"> ✨ Learning • Building • Growing ✨ </p>
+---
+
+<p align="center">✨ Learning • Building • Growing ✨</p>
