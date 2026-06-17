@@ -14,9 +14,7 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Full-Stack+Developer;Data+Science;Cloud+Technologies;AWS+%26+Cloud+Computing;Building+Intelligent+Systems"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ITSKANISHKA&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
-</p>
+
 
 ---
 
