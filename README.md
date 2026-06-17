@@ -78,3 +78,14 @@ project_01:
 
 project_02:
   title: Coming Soon
+
+
+
+
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ITSKANISHKA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITSKANISHKA&theme=radical&hide_border=true&background=0D1117" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ITSKANISHKA&theme=react-dark&hide_border=true"/> </p>
+
+
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/itskanishka06/"> <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:itskanishka.06@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://leetcode.com/u/n7VPPMuNJj/"> <img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://codeforces.com/profile/kanishka__"> <img src="https://img.shields.io/badge/Codeforces-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white"/> </a> </p>
+<p align="center"> ✨ Learning • Building • Growing ✨ </p>
