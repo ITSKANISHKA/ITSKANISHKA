@@ -1,89 +1,189 @@
+````md
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=250&section=header&text=Kanishka&fontSize=80&desc=AI/ML%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Science&descAlignY=75&descAlign=50" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&customColorList=6,11,20,24&text=KANISHKA&fontSize=90&fontColor=ffffff"/>
+
 </div>
 
-<br/>
-
-<h2 align="center">Hi, I'm Kanishka 👋</h2>
-
-<h4 align="center">
-Computer Science undergraduate passionate about Artificial Intelligence, Data Science, and Full-Stack Development, building intelligent solutions and scalable applications that create real-world impact.
-</h4>
-
-<br/>
-
-- 🤖 Currently exploring **AI/ML, Data Science & Intelligent Systems**
-- 🚀 Improving my skills in **DSA, MERN Stack & System Design**
-- ☁️ Learning **AWS, Docker & Cloud Technologies**
-- 💻 Solved **500+ DSA Problems**
-- 📬 Reach me at **<a href="mailto:itskanishka.06@gmail.com">itskanishka.06@gmail.com</a>**
-
-<br/>
-
-### Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/itskanishka06/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
-  </a>
-
-  <a href="https://leetcode.com/u/n7VPPMuNJj/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode" width="45" height="45"/>
-  </a>
-
-  <a href="https://codeforces.com/profile/kanishka__" target="_blank">
-    <img src="https://cdn.simpleicons.org/codeforces" width="45" height="45"/>
-  </a>
-
-  <a href="mailto:itskanishka.06@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
-  </a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Full-Stack+Developer;Data+Science;Cloud+Technologies"/>
 </p>
 
+<h3 align="center">
+Building intelligent systems, scalable applications, and impactful digital products.
+</h3>
+
 <br/>
 
-### Languages and Tools
+## 🛰 Current Focus
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,oracle,tensorflow,docker,aws,git,github,vscode&perline=10" />
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🧠 Intelligence
+
+Machine Learning  
+Deep Learning  
+Computer Vision
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊 Data
+
+Data Science  
+Analytics  
+Visualization
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐 Engineering
+
+Full Stack  
+System Design  
+APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️ Cloud
+
+AWS  
+Docker  
+DevOps
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧠 Intelligence Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="70"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="70"/>
+<img src="https://skillicons.dev/icons?i=opencv" width="70"/>
+<img src="https://skillicons.dev/icons?i=sklearn" width="70"/>
+
 </p>
 
-<br/>
+<p align="center">
 
-### AI / ML & Data Science
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 </p>
 
 ---
 
-### Featured Projects
+## ⚡ Tech Universe
 
-🚧 **Project Showcase Coming Soon**
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nodejs,express,fastapi,mongodb,mysql,postgres,oracle,aws,docker,git,github,vscode,supabase&perline=10"/>
+
+</p>
+
+---
+
+## 🏆 Coding Arena
+
+<p align="center">
+
+<a href="https://leetcode.com/u/n7VPPMuNJj/">
+<img src="https://leetcard.jacoblin.cool/n7VPPMuNJj?theme=dark&font=Karma&ext=heatmap"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://codeforces.com/profile/kanishka__">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=kanishka__&theme=github_dark"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+```yaml
+status: loading...
+project_01: coming_soon
+project_02: coming_soon
+````
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ITSKANISHKA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ITSKANISHKA&theme=radical&hide_border=true&background=0D1117" width="48%" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITSKANISHKA&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/itskanishka06/">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:itskanishka.06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/n7VPPMuNJj/">
+<img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/kanishka__">
+<img src="https://img.shields.io/badge/Codeforces-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ITSKANISHKA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITSKANISHKA&theme=radical&hide_border=true&background=0D1117" width="48%" />
+
+### 👋 Hi, I'm Kanishka
+
+Computer Science undergraduate passionate about **Artificial Intelligence, Data Science, Cloud Technologies, and Full-Stack Development**, building intelligent solutions and scalable systems that create real-world impact.
+
 </p>
 
-<br/>
+---
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/n7VPPMuNJj?theme=dark&font=Karma&ext=heatmap" />
+✨ Learning • Building • Growing ✨
 </p>
-
-<br/>
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kanishka__&theme=github_dark" />
-</p>
+```
