@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&customColorList=6,11,20,24&text=KANISHKA&fontSize=90&fontColor=ffffff"/>
