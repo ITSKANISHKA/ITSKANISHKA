@@ -61,7 +61,86 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 ## 🚀 Featured Projects
 
 🚧 Project showcase coming soon...
+<article class="project-card tilt reveal">
+  <div class="project-number">01</div>
 
+  <div class="project-content">
+    <p class="project-type">AI + Autonomous Systems</p>
+
+    <h3>Autonomous Software Engineering Agent (ASEA)</h3>
+
+    <p>
+      An AI-driven autonomous engineering agent capable of analyzing
+      repositories, detecting bugs, generating fixes, creating pull
+      requests, and monitoring CI/CD pipelines automatically.
+      Built using LLM-powered reasoning, GitHub API integration,
+      Dockerized execution environments, and FastAPI workflows.
+    </p>
+
+    <div class="tech-row">
+      <span>Python</span>
+      <span>LLMs</span>
+      <span>GitHub API</span>
+      <span>Docker</span>
+      <span>FastAPI</span>
+      <span>CI/CD</span>
+    </div>
+
+    <div class="tech-row">
+      <span>1000+ Files Analyzed</span>
+      <span>35% Test Coverage Boost</span>
+      <span>40% Faster Debugging</span>
+    </div>
+  </div>
+
+  <div class="project-preview">
+    <div style="
+      display:flex;
+      flex-direction:column;
+      gap:12px;
+      width:100%;
+      height:100%;
+      justify-content:center;
+      align-items:center;
+    ">
+
+      <div style="
+        padding:12px 18px;
+        border-radius:16px;
+        background:rgba(139,92,246,0.15);
+        border:1px solid rgba(139,92,246,0.3);
+        font-weight:700;
+      ">
+        Repository Analysis
+      </div>
+
+      <div style="font-size:24px;">↓</div>
+
+      <div style="
+        padding:12px 18px;
+        border-radius:16px;
+        background:rgba(6,182,212,0.15);
+        border:1px solid rgba(6,182,212,0.3);
+        font-weight:700;
+      ">
+        Bug Detection
+      </div>
+
+      <div style="font-size:24px;">↓</div>
+
+      <div style="
+        padding:12px 18px;
+        border-radius:16px;
+        background:rgba(34,197,94,0.15);
+        border:1px solid rgba(34,197,94,0.3);
+        font-weight:700;
+      ">
+        AI Generated Fix + PR
+      </div>
+
+    </div>
+  </div>
+</article>
 ---
 
 ## 📊 GitHub Analytics
