@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">👋 Hi, I'm Kanishka<br>
+<h1 align="center">👋 Hi, I'm Kanishka🩷<br>
   Your Own Developer😊</h1>
 
 <h3 align="center">
