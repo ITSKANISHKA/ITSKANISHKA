@@ -59,42 +59,50 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 
 ---
 
+
 ## 🚀 Featured Projects
+
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### ☕ Starbucks Power BI Dashboard
 
-Interactive Business Intelligence dashboard built using **Power BI** to analyze Starbucks beverage nutrition and global store data.
+Interactive Business Intelligence dashboard built to analyze Starbucks beverage nutrition and global presence.
 
-**✨ Features**
-- 📊 KPI Cards & DAX Metrics
+**✨ Highlights**
+- 📊 KPI Cards & Interactive Dashboard
+- 📈 DAX Measures & Data Modeling
 - 🧹 Data Cleaning with Power Query
-- ☕ Beverage Nutrition Analysis
 - 🌍 Global Store Analysis
 - 🎛 Interactive Filters & Slicers
 
-**🛠 Tech**
+**🛠 Tech Stack**
+
 `Power BI` `DAX` `Power Query`
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🤖 AREA
+### 🤖 ASEA
 
-AI-powered research assistant that enables intelligent document search using **RAG** and **LLMs**.
+**Autonomous Software Engineering Agent**
 
-**✨ Features**
-- 📄 Upload & Chat with PDFs
-- 🔍 Semantic Search
-- 🧠 Context-Aware Answers
-- ⚡ Fast Vector Retrieval
-- 🤖 LLM-powered Responses
+AI-powered software engineering agent that analyzes repositories, detects bugs, understands CI/CD failures, generates intelligent code fixes, creates tests, and improves software quality.
 
-**🛠 Tech**
-`Python` `LangChain` `FAISS` `RAG`
+**✨ Highlights**
+- 🤖 Repository Analysis
+- 🐞 Bug Detection
+- 📋 GitHub Actions Log Analysis
+- 🔧 AI Code Fix Generation
+- 🧪 Automated Test Generation
+- 🚀 CI/CD Quality Improvement
+
+**🛠 Tech Stack**
+
+`Python` `LLMs` `GitHub Actions` `Agentic AI` `CI/CD`
 
 </td>
 
@@ -102,19 +110,21 @@ AI-powered research assistant that enables intelligent document search using **R
 
 ### 🛒 NOVA E-Commerce
 
-Modern full-stack e-commerce platform with secure authentication and shopping experience.
+Modern full-stack e-commerce platform focused on performance, scalability, and user experience.
 
-**✨ Features**
-- 🔐 User Authentication
+**✨ Highlights**
+- 🔐 Secure Authentication
 - 🛍 Product Catalog
 - 🛒 Shopping Cart
 - 📦 Order Management
 - 📱 Responsive Design
 
-**🛠 Tech**
+**🛠 Tech Stack**
+
 `React` `Node.js` `Express` `MongoDB`
 
 </td>
+
 </tr>
 </table>
 
