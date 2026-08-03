@@ -61,56 +61,66 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 
 ## 🚀 Featured Projects
 
-### ☕ Starbucks Sales & Nutrition Dashboard (Power BI)
 
-An interactive **Business Intelligence dashboard** built using Microsoft Power BI to analyze Starbucks beverage nutrition and global store data.
+## 🚀 Featured Projects
 
-**🔍 Highlights**
-- Imported and transformed CSV data using **Power Query**
-- Cleaned and prepared raw datasets
-- Created **DAX measures** for business KPIs
-- Designed an interactive dashboard with slicers and filters
-- Built visualizations for beverage nutrition and global presence
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**📈 Dashboard Features**
-- ✅ KPI Cards (Calories, Sugar, Caffeine & Beverage Variants)
-- ✅ Average Calories by Beverage Category
-- ✅ Top 5 Highest Caffeine Beverages
-- ✅ Beverage Category Distribution
-- ✅ Starbucks Global Presence Analysis
-- ✅ Interactive Filters & Slicers
+### ☕ Starbucks Power BI Dashboard
 
-**🛠 Tech Stack:** Power BI • Power Query • DAX • Data Modeling • Data Visualization • Business Intelligence
+Interactive Business Intelligence dashboard built using **Power BI** to analyze Starbucks beverage nutrition and global store data.
 
----
+**✨ Features**
+- 📊 KPI Cards & DAX Metrics
+- 🧹 Data Cleaning with Power Query
+- ☕ Beverage Nutrition Analysis
+- 🌍 Global Store Analysis
+- 🎛 Interactive Filters & Slicers
 
-### 🤖 AREA – AI Research Assistant
+**🛠 Tech**
+`Power BI` `DAX` `Power Query`
 
-An AI-powered research assistant designed to simplify document understanding and information retrieval using modern LLM techniques.
+</td>
 
-**🔍 Highlights**
-- Built an intelligent question-answering system for research documents
-- Implemented semantic search using vector embeddings
-- Context-aware responses with Retrieval-Augmented Generation (RAG)
-- Fast and accurate information retrieval from uploaded documents
-- User-friendly interface for seamless interaction
+<td width="33%" valign="top">
 
-**🛠 Tech Stack:** Python • LangChain • FAISS • LLMs • RAG • Streamlit
+### 🤖 AREA
 
----
+AI-powered research assistant that enables intelligent document search using **RAG** and **LLMs**.
 
-### 🛒 NOVA – E-Commerce Platform
+**✨ Features**
+- 📄 Upload & Chat with PDFs
+- 🔍 Semantic Search
+- 🧠 Context-Aware Answers
+- ⚡ Fast Vector Retrieval
+- 🤖 LLM-powered Responses
 
-A modern full-stack e-commerce platform focused on performance, scalability, and user experience.
+**🛠 Tech**
+`Python` `LangChain` `FAISS` `RAG`
 
-**🔍 Highlights**
-- Secure user authentication and authorization
-- Product catalog with search and category filters
-- Shopping cart and order management
-- Responsive UI for desktop and mobile devices
-- Optimized backend APIs and database integration
+</td>
 
-**🛠 Tech Stack:** React • Node.js • Express.js • MongoDB • JavaScript
+<td width="33%" valign="top">
+
+### 🛒 NOVA E-Commerce
+
+Modern full-stack e-commerce platform with secure authentication and shopping experience.
+
+**✨ Features**
+- 🔐 User Authentication
+- 🛍 Product Catalog
+- 🛒 Shopping Cart
+- 📦 Order Management
+- 📱 Responsive Design
+
+**🛠 Tech**
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+</tr>
+</table>
 
 ---
 
