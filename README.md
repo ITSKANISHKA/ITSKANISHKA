@@ -61,7 +61,56 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 
 ## 🚀 Featured Projects
 
-🚧 Project showcase coming soon...
+### ☕ Starbucks Sales & Nutrition Dashboard (Power BI)
+
+An interactive **Business Intelligence dashboard** built using Microsoft Power BI to analyze Starbucks beverage nutrition and global store data.
+
+**🔍 Highlights**
+- Imported and transformed CSV data using **Power Query**
+- Cleaned and prepared raw datasets
+- Created **DAX measures** for business KPIs
+- Designed an interactive dashboard with slicers and filters
+- Built visualizations for beverage nutrition and global presence
+
+**📈 Dashboard Features**
+- ✅ KPI Cards (Calories, Sugar, Caffeine & Beverage Variants)
+- ✅ Average Calories by Beverage Category
+- ✅ Top 5 Highest Caffeine Beverages
+- ✅ Beverage Category Distribution
+- ✅ Starbucks Global Presence Analysis
+- ✅ Interactive Filters & Slicers
+
+**🛠 Tech Stack:** Power BI • Power Query • DAX • Data Modeling • Data Visualization • Business Intelligence
+
+---
+
+### 🤖 AREA – AI Research Assistant
+
+An AI-powered research assistant designed to simplify document understanding and information retrieval using modern LLM techniques.
+
+**🔍 Highlights**
+- Built an intelligent question-answering system for research documents
+- Implemented semantic search using vector embeddings
+- Context-aware responses with Retrieval-Augmented Generation (RAG)
+- Fast and accurate information retrieval from uploaded documents
+- User-friendly interface for seamless interaction
+
+**🛠 Tech Stack:** Python • LangChain • FAISS • LLMs • RAG • Streamlit
+
+---
+
+### 🛒 NOVA – E-Commerce Platform
+
+A modern full-stack e-commerce platform focused on performance, scalability, and user experience.
+
+**🔍 Highlights**
+- Secure user authentication and authorization
+- Product catalog with search and category filters
+- Shopping cart and order management
+- Responsive UI for desktop and mobile devices
+- Optimized backend APIs and database integration
+
+**🛠 Tech Stack:** React • Node.js • Express.js • MongoDB • JavaScript
 
 ---
 
