@@ -4,8 +4,7 @@
 
 </div>
 
-<h1 align="center">👋 Hi, I'm Kanishka🩷<br>
-  Your Own Developer😊</h1>
+<h1 align="center">👋 Hi, I'm Kanishka🩷<br></h1>
 
 <h3 align="center">
 Computer Science undergraduate passionate about Artificial Intelligence, Data Science, Cloud Technologies, and Full-Stack Development.
