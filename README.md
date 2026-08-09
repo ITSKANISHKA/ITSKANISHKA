@@ -142,7 +142,7 @@ Modern full-stack e-commerce platform focused on performance, scalability, and u
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me 😇
 
 <p align="center">
 <a href="https://www.linkedin.com/in/itskanishka06/">
