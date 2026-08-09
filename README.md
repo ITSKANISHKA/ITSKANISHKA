@@ -18,7 +18,7 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 
 ---
 
-## 🛰 Current Focus
+## 🛰 Current Focus 🫣
 
 - 🧠 Machine Learning & Computer Vision
 - 📊 Data Science & Analytics
