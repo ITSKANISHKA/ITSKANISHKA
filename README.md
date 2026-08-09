@@ -28,7 +28,7 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 
 ---
 
-## 🧠 Intelligence Stack
+## 🧠 Intelligence Stack 👾
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,java,js,react,nodejs,express,mongodb,mysql,postgres,aws,docker,git,github,vscode&perline=8"/>
@@ -45,8 +45,8 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 </p>
 
 ---
-
-## 🏆 Coding Arena
+ 
+## 🏆 Coding Arena 👾
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/n7VPPMuNJj?theme=dark&font=Karma&ext=heatmap"/>
