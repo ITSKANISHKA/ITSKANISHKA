@@ -66,25 +66,6 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 
 <td width="33%" valign="top">
 
-### ☕ Starbucks Power BI Dashboard
-
-Interactive Business Intelligence dashboard built to analyze Starbucks beverage nutrition and global presence.
-
-**✨ Highlights**
-- 📊 KPI Cards & Interactive Dashboard
-- 📈 DAX Measures & Data Modeling
-- 🧹 Data Cleaning with Power Query
-- 🌍 Global Store Analysis
-- 🎛 Interactive Filters & Slicers
-
-**🛠 Tech Stack**
-
-`Power BI` `DAX` `Power Query`
-
-</td>
-
-<td width="33%" valign="top">
-
 ### 🤖 ASEA
 
 **Autonomous Software Engineering Agent**
