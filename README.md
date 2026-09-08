@@ -60,8 +60,6 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-
 <td width="50%" valign="top">
 
 ### 🤖 ASEA
