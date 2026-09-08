@@ -60,6 +60,7 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 ## 🚀 Featured Projects
 
 <table>
+ <tr>
 <td width="50%" valign="top">
 
 ### 🤖 ASEA
@@ -81,10 +82,6 @@ AI-powered software engineering agent that analyzes repositories, detects bugs, 
 `Python` `LLMs` `GitHub Actions` `Agentic AI` `CI/CD`
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
