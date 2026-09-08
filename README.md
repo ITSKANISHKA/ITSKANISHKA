@@ -57,23 +57,21 @@ Computer Science undergraduate passionate about Artificial Intelligence, Data Sc
 </p>
 
 ---
-
-
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🤖 ASEA
 
 **Autonomous Software Engineering Agent**
 
-AI-powered software engineering agent that analyzes repositories, detects bugs, understands CI/CD failures, generates intelligent code fixes, creates tests, and improves software quality.
+AI-powered software engineering agent that analyzes repositories, detects bugs, understands CI/CD failures, generates code fixes, creates tests, and improves software quality.
 
 **✨ Highlights**
-- 🤖 Repository Analysis
+- 🤖 Autonomous Repository Analysis
 - 🐞 Bug Detection
 - 📋 GitHub Actions Log Analysis
 - 🔧 AI Code Fix Generation
@@ -86,7 +84,35 @@ AI-powered software engineering agent that analyzes repositories, detects bugs, 
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Ostrich
+
+**AI-Native Knowledge Workspace**
+
+AI-powered **RAG-based knowledge workspace** designed for intelligent document management, semantic search, and contextual AI conversations.
+
+**✨ Highlights**
+- 🔍 Semantic Search
+- 🧠 Hierarchy-Aware RAG
+- 💬 Real-Time AI Chat
+- 🧠 Persistent AI Memory
+- 🔐 JWT Authentication & RBAC
+- 💳 Razorpay Subscriptions
+- 🚀 Secure REST APIs
+- 🐳 Dockerized SaaS Platform
+
+**🛠 Tech Stack**
+
+`React` `Azure OpenAI` `Supabase` `RAG` `Docker` `Razorpay`
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🛒 NOVA E-Commerce
 
@@ -101,12 +127,13 @@ Modern full-stack e-commerce platform focused on performance, scalability, and u
 
 **🛠 Tech Stack**
 
-`React` `Node.js` `Express` `MongoDB`
+`Node.js` `Express.js` `MongoDB` `EJS`
 
 </td>
 
 </tr>
 </table>
+
 
 ---
 
